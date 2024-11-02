@@ -10,6 +10,10 @@
 <body>
     <h1>hello world</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat perferendis eligendi quisquam eos iure. Est saepe veniam sunt unde laudantium minus, ipsum consequatur vitae mollitia obcaecati ipsa omnis numquam porro natus doloribus dolorem ratione atque, maxime ea consectetur. Laborum dolores possimus deserunt itaque dignissimos consequuntur libero non praesentium iure explicabo!</p>
+
+    <ul>
+        <li>nama saya tyo</li>
+    </ul>
 </body>
 
 </html>
